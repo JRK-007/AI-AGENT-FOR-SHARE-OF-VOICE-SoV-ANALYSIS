@@ -1,0 +1,8 @@
+brand,mentions,engagement,sentiment,mentions_norm,engagement_norm,sentiment_norm,SoV,keyword
+atomberg,1,0,0.7063999999999999,0.25,0.0,0,0.125,energy efficient fans
+crompton,0,0,0.7063999999999999,0.0,0.0,0,0.0,energy efficient fans
+havells,2,0,0.7063999999999999,0.5,0.0,0,0.25,energy efficient fans
+usha,0,0,0.7063999999999999,0.0,0.0,0,0.0,energy efficient fans
+orient,0,0,0.7063999999999999,0.0,0.0,0,0.0,energy efficient fans
+panasonic,0,0,0.7063999999999999,0.0,0.0,0,0.0,energy efficient fans
+bajaj,1,0,0.7063999999999999,0.25,0.0,0,0.125,energy efficient fans
