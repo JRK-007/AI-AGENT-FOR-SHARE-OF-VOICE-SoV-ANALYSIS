@@ -20,28 +20,6 @@ The agent scrapes real-time data from **YouTube** and **Twitter/X (via Nitter)**
 - 💡 Generates **marketing insights** & recommendations
 
 ---
-AI-AGENT-FOR-SHARE-OF-VOICE-SoV-ANALYSIS/
-│
-├── scrapers/
-│ ├── youtube_scraper.py
-│ ├── twitter_scraper.py
-│
-├── nlp/
-│ ├── clean_and_mentions.py
-│ ├── sentiment.py
-│
-├── analysis/
-│ ├── compute_sov.py
-│
-├── data/
-│ ├── (generated CSV files)
-│
-├── run_all.py
-├── README.md
-└── Final_Report.pdf
-
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -112,22 +90,23 @@ final_sov_comparison.csv
 AI-AGENT-FOR-SHARE-OF-VOICE-SoV-ANALYSIS/
 │
 ├── scrapers/
-│ ├── youtube_scraper.py
-│ ├── twitter_scraper.py
+│   ├── youtube_scraper.py
+│   ├── twitter_scraper.py
 │
 ├── nlp/
-│ ├── clean_and_mentions.py
-│ ├── sentiment.py
+│   ├── clean_and_mentions.py
+│   ├── sentiment.py
 │
 ├── analysis/
-│ ├── compute_sov.py
+│   ├── compute_sov.py
 │
 ├── data/
-│ ├── (generated csv outputs)
+│   ├── (generated CSV files)
 │
 ├── run_all.py
 ├── README.md
 └── Final_Report.pdf
+
 
 ---
 ## 👤 Author  
